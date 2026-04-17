@@ -1,0 +1,8 @@
+## Uploading the Firmware
+
+1. Open Arduino IDE
+2. Open the file:
+   firmware/IoT_AirSensor/IoT_AirSensor.ino
+3. Select your board: XIAO ESP32C6
+4. Select the correct port
+5. Click Upload
